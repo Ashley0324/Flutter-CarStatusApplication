@@ -3,7 +3,7 @@ A small attempt to make a car's Status app in Flutter for Android, iOS and Web.
 The M-Car app puts owners in direct communication with their vehicles and energy products anytime, anywhere. The advantage of this project is that it allows users to manage multiple cars from different brands.
 
 <div align="center">
-  <img width="481" alt="Screenshot 2022-05-17 at 18 26 16" src="https://user-images.githubusercontent.com/99146042/168875905-49e053c3-9de2-4a25-9ace-6246a853ec7c.png">
+  <img width="800" alt="Screenshot 2022-05-17 at 18 26 16" src="https://user-images.githubusercontent.com/99146042/168875905-49e053c3-9de2-4a25-9ace-6246a853ec7c.png">
 </div>
 <p align="center">
   <br/>
@@ -16,7 +16,7 @@ If you'd like to contribute to the app, don't hestite to get in contact with me.
 
 ### ✨ Iphone Screenshots
 <p align="center">
-  <img width="200" alt="Screenshot 2022-05-17 at 18 26 28" src="https://user-images.githubusercontent.com/99146042/168876140-0582093a-1ef7-4616-9d04-ace5df228ed9.png">
+  <img width="800" alt="Screenshot 2022-05-17 at 18 26 28" src="https://user-images.githubusercontent.com/99146042/168876140-0582093a-1ef7-4616-9d04-ace5df228ed9.png">
 </p>
 
 ### 😃 Functions
