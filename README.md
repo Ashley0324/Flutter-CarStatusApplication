@@ -30,10 +30,6 @@ I interviewed four car owner in UK, and make the persona to analysis potensial u
 I design the user flow to simulate every step the user takes - from the entry point right through to the final interaction. This task flow focus on how users travel through the platform while performing a specific task.
 <img width="600" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
 
-### ✨ Implement
-In Flutter, (almost) everything is a Widget. Build a widget tree is helpful before coding.
-Here is the home page widget tree.
-
 ### 👩‍💻 Features
 - Fit to all device screens
 To fit all device screens, most widgets are proportional by taking the page size instead of giving it a fixed height.
@@ -52,11 +48,13 @@ Compared to other car apps, the UI design is more attractive.
 - An account of MQTT
 
 ### 🤷 You will learn from this project
-### Widgets
-- [Text widgets](https://api.flutter.dev/flutter/widgets/DefaultTextStyle-class.html) - [Padding widget]()
-
-
-
+- Widget tree
+- Text widget
+- Button widget
+- Theme widget
+- Layout widget
+- Navigation
+- GestureDetector widget
 
 ### ✨ Challenges and Improvement
 - Now the login part only completes the UI design. I'll authenticate and login users in Flutter from a REST Api.
