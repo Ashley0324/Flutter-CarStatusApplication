@@ -62,7 +62,7 @@ Compared to other car apps, the UI design is more attractive.
 - Now the login part only completes the UI design. I'll authenticate and login users in Flutter from a REST Api.
 - Mercedes company API could be used in a simulated environment for free. It assists me throughout the integration phase. But bill is needed to access real data. If this becomes a commercial project in the future, I will pay for this service.
 - During the integration phase, I only used data from one car as an example. But the function of switching cars is done.
-- Weather and location information is not included in Mercedes' free data set. The data displayed now is obtained by fetching from mqtt. This is data from UCL garden not a real car. Commercial projects should get real information from the car company API.
+- Weather and location information is not included in Mercedes' free data set. The data displayed now is obtained by fetching from mqtt. This is data from UCL garden. Commercial projects should get real information from the car company API.
 
 ### ❤️ Build instructions
 1. Download this project from this [github link](https://github.com/Ashley0324/CASA0015-Mobile-Systems-Interactions)
