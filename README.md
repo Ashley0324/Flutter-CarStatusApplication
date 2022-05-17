@@ -30,6 +30,9 @@ I interviewed four car owner in UK, and make the persona to analysis potensial u
 I design the user flow to simulate every step the user takes - from the entry point right through to the final interaction. This task flow focus on how users travel through the platform while performing a specific task.
 <img width="600" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
 
+### ✨ Implement
+In Flutter, (almost) everything is a Widget. Build a widget tree is helpful before coding.
+Here is the home page widget tree.
 
 ### 👩‍💻 Features
 - Fit to all device screens
