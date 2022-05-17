@@ -22,6 +22,15 @@ With this app, you can:
 - Checking the weather condition
 - Recieving safe alarm
 
+### 😱 Persona
+I interviewed four car owner in UK, and make the persona to analysis potensial users' painpoint and requirement.
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154819267-ab6579c8-c82d-4d98-9392-922e90657129.jpg">
+
+### User flow
+I design the user flow to simulate every step the user takes - from the entry point right through to the final interaction. This task flow focus on how users travel through the platform while performing a specific task.
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
+
+
 ### 👩‍💻 Features
 - Fit to all device screens
 To fit all device screens, most widgets are proportional by taking the page size instead of giving it a fixed height.
