@@ -51,6 +51,13 @@ Compared to other car apps, the UI design is more attractive.
 - A little knowledge of Dart and Flutter
 - An account of MQTT
 
+### 🤷 You will learn from this project
+### Widgets
+- [Text widgets](https://api.flutter.dev/flutter/widgets/DefaultTextStyle-class.html) - [Padding widget]()
+
+
+
+
 ### ✨ Challenges and Improvement
 - Now the login part only completes the UI design. I'll authenticate and login users in Flutter from a REST Api.
 - Mercedes company API could be used in a simulated environment for free. It assists me throughout the integration phase. But bill is needed to access real data. If this becomes a commercial project in the future, I will pay for this service.
