@@ -10,10 +10,6 @@ The M-Car app puts owners in direct communication with their vehicles and energy
   🎬 <a href="https://www.youtube.com/watch?v=IsLhRpSdZRk">Watch it in action on Youtube</a> 🎬
 </p>
 
-### 🧑 Author
-Ashley Jin: ashleyjin0324@gmail.com
-If you'd like to contribute to the app, don't hestite to get in contact with me.
-
 ### ✨ Iphone Screenshots
 <p align="center">
   <img width="800" alt="Screenshot 2022-05-17 at 18 26 28" src="https://user-images.githubusercontent.com/99146042/168876140-0582093a-1ef7-4616-9d04-ace5df228ed9.png">
@@ -62,3 +58,7 @@ Compared to other car apps, the UI design is more attractive.
 - Dart packages. 2022. mqtt_client | Dart Package. [online] Available at: <https://pub.dev/packages/mqtt_client> [Accessed 16 April 2022].
 - Dart packages. 2022. http_api | Dart Package. [online] Available at: <https://pub.dev/packages/http_api> [Accessed 16 May 2022].
 - Mercedes. [online] Available at: <https://developer.mercedes-benz.com/products/vehicle_status/specifications/vehicle_status_api> [Accessed 16 May 2022].
+
+### 🧑 Author
+Ashley Jin: ashleyjin0324@gmail.com
+If you'd like to contribute to the app, don't hestite to get in contact with me.
