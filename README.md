@@ -2,26 +2,35 @@
 A small attempt to make a car's Status app in Flutter for Android, iOS and Web.
 The M-Car app puts owners in direct communication with their vehicles and energy products anytime, anywhere. The advantage of this project is that it allows users to manage multiple cars from different brands.
 
+<div align="center">
+  <img width="481" alt="Screenshot 2022-05-17 at 18 26 16" src="https://user-images.githubusercontent.com/99146042/168875905-49e053c3-9de2-4a25-9ace-6246a853ec7c.png">
+</div>
+<p align="center">
+  <br/>
+  🎬 <a href="https://www.youtube.com/watch?v=IsLhRpSdZRk">Watch it in action on Youtube</a> 🎬
+</p>
+
 ### 🧑 Author
 Ashley Jin: ashleyjin0324@gmail.com
 If you'd like to contribute to the app, don't hestite to get in contact with me.
 
 ### ✨ Iphone Screenshots
-<img width="575" alt="Screenshot 2022-05-12 at 01 15 57" src="https://user-images.githubusercontent.com/99146042/167968621-6af669b9-d48c-4aa7-a072-646ec8a2336f.png">
+<p align="center">
+  <img width="200" alt="Screenshot 2022-05-17 at 18 26 28" src="https://user-images.githubusercontent.com/99146042/168876140-0582093a-1ef7-4616-9d04-ace5df228ed9.png">
+</p>
 
 ### 😃 Functions
-
 With this app, you can:
-
 - Locating vehicles with directions or track its movement
 - Monitoring vehicles status(door, window, light)
 - Checking the weather condition
 - Recieving safe alarm
 
-### 👩‍💻 Fit to all device screens
-
-To fit all device screens, most widgets are proportional by taking the page size instead of giving it a fixed height
-<img width="575" alt="Screenshot 2022-05-12 at 01 24 16" src="https://user-images.githubusercontent.com/99146042/167968753-57c6fd66-785d-4eb7-9f1d-1773c7eb0b48.png">
+### 👩‍💻 Features
+- Fit to all device screens
+To fit all device screens, most widgets are proportional by taking the page size instead of giving it a fixed height.
+- Colorful UI design
+Compared to other car apps, the UI design is more attractive.
 
 ### 📊 Data Source
 - Location: MQTT
