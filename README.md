@@ -32,6 +32,10 @@ I interviewed four car owner in UK, and make the persona to analysis potensial u
 I design the user flow to simulate every step the user takes - from the entry point right through to the final interaction. This task flow focus on how users travel through the platform while performing a specific task.
 <img width="600" src="https://user-images.githubusercontent.com/99146042/154819301-fc2bb01b-b5ba-44e8-ad3f-4e7704d23f93.png">
 
+### Wireframe
+The user flow in parper is helpful before building the detailed project.
+<img width="600" src="https://user-images.githubusercontent.com/99146042/154819313-50a6a9f9-7e66-4757-b0f5-7f2319ab848d.jpg">
+
 ### 👩‍💻 Features
 - Fit to all device screens
 To fit all device screens, most widgets are proportional by taking the page size instead of giving it a fixed height.
