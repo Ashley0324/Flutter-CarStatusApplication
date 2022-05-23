@@ -57,6 +57,16 @@ Compared to other car apps, the UI design is more attractive.
 - Layout widget
 - Navigation
 - GestureDetector widget
+- Communication with MQTT and API
+
+### 🤷 Library
+- zDraw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
+Flutter_svg 1.0.3: Draw SVG (and some Android VectorDrawable (XML)) files on a Flutter Widget.
+- Http0.13.4: Making http requests.
+- mqtt_client: ^5.5.3: Communicate with MQTT
+- cupertino_icons: ^1.0.2: Use the icon library.
+
+
 
 ### ✨ Challenges and Improvement
 - Now the login part only completes the UI design. I'll authenticate and login users in Flutter from a REST Api.
